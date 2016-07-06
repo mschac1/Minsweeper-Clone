@@ -1,0 +1,9 @@
+C:\Users\Menachem\Documents\Personal\Projects\c#\MS\obj\Debug\WindowsApplication1.exe
+C:\Users\Menachem\Documents\Personal\Projects\c#\MS\obj\Debug\WindowsApplication1.pdb
+C:\Users\Menachem\Documents\Personal\Projects\c#\MS\bin\Debug\WindowsApplication1.exe
+C:\Users\Menachem\Documents\Personal\Projects\c#\MS\bin\Debug\WindowsApplication1.pdb
+C:\Users\Menachem\Documents\Personal\Projects\c#\MS\obj\Debug\MS.csprojResolveAssemblyReference.cache
+C:\Users\Menachem\Documents\Personal\Projects\c#\MS\obj\Debug\MS.csproj.GenerateResource.Cache
+C:\Users\Menachem\Documents\Personal\Projects\c#\MS\obj\Debug\MineSweeper.frmMineSweeper.resources
+C:\Users\Menachem\Documents\Personal\Projects\c#\MS\obj\Debug\MineSweeper.frmCustom.resources
+C:\Users\Menachem\Documents\Personal\Projects\c#\MS\obj\Debug\MineSweeper.frmHighScores.resources
